@@ -1,0 +1,11 @@
+html, body {
+	background: #7B52AB;
+}
+
+.cupcake h4, .cupcake h5, h1 {
+   color: #1FCECB;
+}
+
+.cursive {
+    font-family: 'Indie Flower', cursive;
+}
